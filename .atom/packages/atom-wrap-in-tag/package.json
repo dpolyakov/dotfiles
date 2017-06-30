@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+        "spec": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/apm-install-dir-117530-36277-1ot1eg9.qww3gfd2t9"
+    ]
+  ],
+  "_from": "../d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+  "_id": "atom-wrap-in-tag@0.6.0",
+  "_inCache": true,
+  "_location": "/atom-wrap-in-tag",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+    "spec": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+  "_shasum": "2cea0a9df0e685d88ab1fb943c946fdff762a7c1",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/d-117530-36277-1jnrisr.79htfn7b9/package.tgz",
+  "_where": "/private/var/folders/7h/l3qsh8455jjb_yhnnj9vlp4hy2cfz6/T/apm-install-dir-117530-36277-1ot1eg9.qww3gfd2t9",
+  "activationCommands": {
+    "atom-workspace": "wrap-in-tag:wrap"
+  },
+  "bugs": {
+    "url": "https://github.com/sanusart/atom-wrap-in-tag/issues"
+  },
+  "dependencies": {},
+  "description": "Wrap tag around selection",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/sanusart/atom-wrap-in-tag#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/wrap-in-tag",
+  "name": "atom-wrap-in-tag",
+  "optionalDependencies": {},
+  "readme": "# Atom wrap in tag\n\nSimplest package for [Atom](https://atom.io/) that wraps tag around selection - similar functionality found on other editors like PhpStorm, SublimeText, TextMate etc.\n\nJust select a word or phrase and hit <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd>\n\nHit spacebar key to continue typing attribute after the opening tag.\n\n## Installation\n\n`apm install atom-wrap-in-tag`\n\nor find _atom-wrap-in-tag_ in **Settings** > **Install** tab\n\n![A screenshot of your package](https://raw.githubusercontent.com/sanusart/atom-wrap-in-tag/master/images/screenshot.gif)\n\n### License:\n\nMIT\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanusart/atom-wrap-in-tag.git"
+  },
+  "version": "0.6.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/wrap-in-tag.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
